@@ -1,7 +1,7 @@
 { 
-    "name": "HENTAI-QUEEN",
+    "name": "stumnmake",
     "version": "0.0.1",
-    "description": "Customizable WhatsApp Bot",
+    "description": "stumnmake",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -20,14 +20,14 @@
         "js-whatsapp",
         "whatsapp",
         "dinuwa",
-        "QUEEN-HENTAI-md",
+        "stumnmake",
         "multi-device",
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/dinuwah/HENTAI-QUEEN",
+    "homepage": "stumnmake",
     "author": {
-        "name": "Dinuwa Official²⁰²³"
+        "name": "stumnmake"
     },
     "repository": {
         "type": "git",
